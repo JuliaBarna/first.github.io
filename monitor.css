@@ -1,0 +1,114 @@
+.email{
+    background-color: white;
+    margin: -446px 118px;
+    height: 130px;
+    width: 500px;
+    border-radius: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Unbounded', cursive;
+    padding: 30px;
+    color: black;
+}
+.photo{
+    float: left;
+    margin: -10px;
+    margin-right: 25px;
+}
+.password{
+    background-color: white;
+    border-radius: 30px;
+    width: 500px;
+    height: 430px;
+    margin: 50px;
+    margin-top: 480px;
+    margin-left: 117px;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Unbounded', cursive;
+}
+.monitor{
+    display: flex;
+}
+.company{
+    width: 692px;
+    height: 600px;
+    background-color: white;
+    margin-top: -450px;
+    margin-left: -50px;
+    border-radius: 30px;
+    padding:18px ;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Unbounded', cursive;
+}
+.oldpassword{
+    margin: 55px;
+  
+}
+.oldpassword-small{
+    margin: 10px;
+    margin-left: -70px;
+}
+
+.company-name{
+    margin: 40px;
+
+}
+.company-adress{
+    margin: 40px;
+}
+.characteristic{
+    display: flex;
+    flex-direction: center;
+    flex-wrap: wrap;
+    justify-content:space-between;
+
+}
+.characteristic-small{
+    margin: 15px;
+}
+.text-field_input{
+    width: 400px;
+    margin: 10px;
+    border-radius: 8px;
+    height: 30px;
+}
+.butt{
+   margin-left: 300px;
+   height: 35px;
+   width: 80px;
+   background-color: rgb(33, 154, 195);
+   color: white;
+   border-radius: 8px;
+}
+.name{
+    height: 35px;
+    border-radius: 8px;
+    width: 548px;
+    margin: 5px;
+}
+.adress{
+    width: 548px;
+    border-radius: 8px;
+    height: 60px;
+    margin: 5px;
+}
+.city{
+    width: 274px ;
+    height: 40px;
+    border-radius: 8px;
+    margin: 5px;
+}
+.buttt{
+    margin-left: 550px;
+    height: 35px;
+    width: 80px;
+    background-color: rgb(33, 154, 195);
+    color: white;
+    border-radius: 8px;
+    padding-bottom: 5px;
+    margin-top: 32px;
+}
